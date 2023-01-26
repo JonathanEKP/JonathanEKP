@@ -1,6 +1,8 @@
-# 💫 About Me:
-👨🏻‍💻I'm a Software Development Student.<br>🔥I like to code in JavaScript. I'd like to learn Java || C#.<br><center><p><del>Talent</del>Ain't Enough👾</p></center>
+# 💫 Hi viewer!:
+👨🏻‍💻I'm a Software Development Student.<br>🔥I like to code in JavaScript. I'd like to learn Java || C#.<br><center><p><del>Talent </del>Ain't Enough👾</p></center>
 
+![neji](https://user-images.githubusercontent.com/84346091/214762657-6ebd6f8a-b7cd-4e19-8cdf-4c50e7f473c1.gif)
+![naruto-byakugan](https://user-images.githubusercontent.com/84346091/214762662-1475cbfa-c67d-4703-a3d6-36cf2f95bf81.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jonathannlarios10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonathannn_l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-larios-448b81244) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/LordJon4) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jonathanlariosv) 
