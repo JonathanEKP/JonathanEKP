@@ -1,5 +1,5 @@
 # 💫 Hi viewer!:
-👨🏻‍💻I'm a Software Development Student.<br>🔥Lover of the world of tech. I like to code in JavaScript, I'd like to learn Java || C#.<br><center><p><del>Talent</del> Ain't Enough👹</p></center>
+👨🏻‍💻I'm a Software Development Student.<br>🔥Lover of the world of tech. I like to code in JavaScript, I'd like to learn Java || C#.
 ![naruto-byakugan](https://user-images.githubusercontent.com/84346091/214762662-1475cbfa-c67d-4703-a3d6-36cf2f95bf81.gif)
 
 ## 🌐 Socials:
